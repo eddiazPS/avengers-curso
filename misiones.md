@@ -1,4 +1,5 @@
 # Misiones
 
-* conquistar sur America.
-* conquistar Norte America.
+* Conquistar sur America.
+* Conquistar Norte America.
+* Mision europa.
